@@ -6,8 +6,12 @@ public class Main {
 //		Sample4.main(args);
 //		
 //		Sample5.main(args);
-
-		Sample6.main(args);
+//
+//		Sample6.main(args);
+		
+//		Sample7.main(args);
+		
+		SampleOwn.main(args);
 	}
 
 }
